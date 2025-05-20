@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+unstructured
+pypdf
+tqdm
+python-dotenv
+requests

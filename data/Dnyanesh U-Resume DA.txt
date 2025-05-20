@@ -1,0 +1,58 @@
+Dnyanesh Ujalambkar
+dnyano.ujalambkar@gmail.com | +91 7507582590 | Pune, Maharashtra, India
+Linkedin | Medium | LeetCode | Github
+Professional Summary
+Detail-oriented and an aspiring Data Analyst with a strong foundation in data collection, analysis, and visualization. Proficient in leveraging statistical tools, SQL, Python, and Excel to uncover actionable insights and drive data-driven decision-making. Experienced in creating interactive dashboards using tools like Tableau and Power BI, and skilled in cleaning, organizing, and interpreting large datasets. Adept at collaborating with cross-functional teams to identify trends, optimize processes, and deliver impactful solutions. Passionate about transforming raw data into meaningful strategies that enhance business performance and efficiency. Eager to contribute analytical expertise and problem-solving skills to help organizations thrive in data-centric environments.
+Education
+Vishwakarma Institute Of Technology Electronics and Telecommunication Bachelors of Technology CGPA: 7.85 (till 4th semester)
+Pune November 2022 - June 2026
+Projects / Open-Source
+1. Smart Lane-Keeping Assistance System
+Developed a lane-keeping system leveraging machine learning to adapt to poorly marked lanes, nighttime driving, and heavy rain.
+
+Integrated advanced sensors, including LiDAR and cameras, with real-time data processing to maintain accurate vehicle positioning.
+Enhanced system adaptability and safety through continuous optimization of algorithms based on diverse road conditions.
+2. Smart Tyre Monitoring System (AI and IIoT-Based)
+Developed an AI-driven tyre health monitoring system for heavy-duty dumpers using models like Random Forest, Gradient Boosting, and LSTM for tyre wear prediction and anomaly detection.
+Designed a real-time data acquisition system on AWS to collect and process IIoT sensor data, including pressure, load, and temperature metrics.
+Optimized maintenance schedules and reduced downtime through clustering algorithms and actionable AI-driven insights.
+3. DSP-Based Earthquake Detection System
+Analyzed seismic data using AI-driven models, including Random Forest and Support Vector Machines (SVM), to identify patterns in ground tremors, enhancing the accuracy of earthquake monitoring systems.
+Applied digital signal processing (DSP) techniques, such as Fourier Transform and Wavelet Transform, to clean, filter, and interpret seismic signals, enabling precise detection of low-frequency vibrations.
+Leveraged ML algorithms like KNN and Gradient Boosting for data-driven evaluations of vibration- detection, providing insights supporting the development of reliable earthquake early warning systems.
+Professional Experience
+Icon InfoLine Pvt Ltd
+Cloud Security Intern September 2024 - October 2024
+Pune, India |
+Designed and implemented a cloud-based authentication system with AWS, incorporating multi-factor authentication (MFA).
+• Collaborated with cross-functional teams to ensure security measures aligned with business needs. • Applied zero-trust security principles to enhance data protection and access control.
+AdvinoNex Automation
+Automation Intern December 2024 - December 2024
+Pune, India |
+Leveraged Amazon SageMaker to develop models for equipment maintenance scheduling, analysing real- time and historical data from PLCs.
+Built an interactive dashboard using React.js, with backend APIs on AWS Lambda, for monitoring machine health and performance metrics in real time.
+Deployed AWS IoT Greengrass for low-latency edge processing, enabling local AI decision-making while syncing with the cloud for long-term analysis.
+Skills
+Programming Languages: Python, SQL, R, JavaScript, C, C++, Java. Tools / Platforms: Tableau, Jupyter Notebook, MySQL, MongoDB, Matlab, Amazon Web Services(AWS).
+Research Publications
+1. Manisha More, Dnyanesh Ujalambkar, Shreenath Ubale, Abhinav Tohare, Anuj Udapure, Pratik Ugile, “The Virtual Clinic: A Web-Based Diagnosis Solution”, International Journal of All Research Education and Scientific Methods (IJARESM), ISSN: 2455-6211, Volume 11, Issue 12, December-2023.
+2. M. Wyawahare, M. Rane, D. Ujalambkar, S. Mahadik, P. Jadhav and N. Wakode, "Enhanced Security Fencing System with Geolocation Tracking," 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2024, pp. 815-819.
+3. M. Wyawahare, M. Rane, D. Ujalambkar, S. Mahadik, P. Jadhav and N. Wakode, "Enhanced Security Fencing System with Geolocation Tracking," 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2024, pp. 815-819.
+Related College Coursework • Advanced Data Structures • Design & Analysis of Algorithms • Operating Systems
+• Data Science
+Internet of Things
+Certifications
+1. C Programming 2024 - Udemy. 2. Fundamentals of Deep Learning – NVIDIA.
+Extra-Curriculars
+1. VIT Entrepreneurship Development Cell
+Merchandise and Refreshments Coordinator September 2023 - May 2024
+Pune, India |
+Designed event merchandise that reflected the spirit and theme of each event, enhancing attendee engagement and brand recognition.
+Collaborated closely with entrepreneurs to ensure the merchandise aligned with their branding.
+2. VIT Student Council (College Committee)
+Sponsorship Coordinator January 2023 - May 2024
+Pune, India |
+Strategically secured sponsorships from local businesses, increasing funding and resources for our flagship committee-organized events.
+3. Winner of the internal Smart India Hackathon 2024 conducted in our college where we stood out in the top 50 teams out of 497 teams.
+4. Finalists of the National iNtellimobility ideathon organized by Automotive Research Association of
+India( ARAI), Pune and TechNovuus
